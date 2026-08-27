@@ -155,5 +155,5 @@ For the complete written analysis with all charts and figures, see Netflix_Conte
 👤 Author
 Mohammad Rehan B.C.A. (Data Science) Student | Aspiring Data Analyst Bilaspur, Chhattisgarh, India
 
-<img width="941" height="528" alt="Screenshot 2026-07-01 150740" src="https://github.com/user-attachments/assets/db96f6be-80f7-41dc-91de-53314b48cde2" />
+
 
